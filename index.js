@@ -1,1 +1,2 @@
-console.log("private file");
+let v = console.log("private file");
+module.exports = v;
